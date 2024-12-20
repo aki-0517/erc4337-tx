@@ -26,13 +26,13 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/erc4337-aa-transactions.git
+   git clone https://github.com/aki-0517/erc4337-tx.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd erc4337-aa-transactions
+   cd erc4337-tx
    ```
 
 3. **Install dependencies:**
